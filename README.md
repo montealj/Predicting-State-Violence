@@ -4,7 +4,10 @@ Since the dawn of democracy, protests have played an essential role in maintaini
 This project aims to create a model that discerns whether a mass mobilization will incur state violence at its inception, to drive protester strategies and inform decisions when dialogue and engagement are no longer an option.
 ### Table of Contents
 
-1. Documents
+1. Source
+  * [Mass Mobilization Protest Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HTTWYL) 
+  * [Participant Number - Data World](https://data.world/montealj/mass-mobilization-participant-data)
+3. Documents
   * [Final Report](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization_Report.pdf)
   This report contains a detailed account of the data wrangling, EDA and modeling performed for this project.
   * [Presentation](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization_Project_Presentation.pdf)
