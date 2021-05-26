@@ -7,15 +7,15 @@ Since the dawn of democracy, protests have played an essential role in maintaini
 This project aims to create a model that discerns whether a mass mobilization will incur state violence at its inception, to drive protester strategies and inform decisions when dialogue and engagement are no longer an option.
 ### Table of Contents
 
-1. Source
-  * [Mass Mobilization Protest Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HTTWYL) 
+1. Source Data
+  * [Mass Mobilization Protest Data](https://github.com/montealj/mass-mobilization/tree/main/raw_data) 
   * [Participant Number - Data World](https://data.world/montealj/mass-mobilization-participant-data)
 2. Documents
-  * [Final Report](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization_Report.pdf)
+  * [Final Report](https://github.com/montealj/mass-mobilization/blob/main/Mass_Mobilization_Report.pdf)
   This report contains a detailed account of the data wrangling, EDA and modeling performed for this project.
-  * [Presentation](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization_Project_Presentation.pdf)
+  * [Presentation](https://github.com/montealj/mass-mobilization/blob/main/Mass_Mobilization_Project_Presentation.pdf)
   This presentation summarizes the data wrangling, EDA, modeling and conclusions for this project. 
 3. Notebooks
-  * [Data Wrangling](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization/Capstone_Two_MM_Data_Wrangling_JM.ipynb)
-  * [Exploration Data Analysis](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization/Capstone_Two_MM_EDA_JM.ipynb)
-  * [Machine Learning](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization/Capstone_Two_MM_Modeling_JM.ipynb)
+  * [Data Wrangling](https://github.com/montealj/mass-mobilization/blob/main/notebooks/mm_data_wrangling.ipynb)
+  * [Exploration Data Analysis](https://github.com/montealj/mass-mobilization/blob/main/notebooks/mm_eda.ipynb)
+  * [Machine Learning](https://github.com/montealj/mass-mobilization/blob/main/notebooks/mm_modeling.ipynb)
