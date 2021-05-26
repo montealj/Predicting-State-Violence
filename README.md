@@ -8,8 +8,8 @@ This project aims to create a model that discerns whether a mass mobilization wi
 ### Table of Contents
 
 1. Source Data
-  * [Mass Mobilization Protest Data](https://github.com/montealj/mass-mobilization/tree/main/raw_data) 
-  * [Participant Number - Data World](https://data.world/montealj/mass-mobilization-participant-data)
+  * [Original Mass Mobilization Protest Data](https://github.com/montealj/mass-mobilization/tree/main/raw_data) 
+  * [Improved Mass Mobilization Protest Data - Data World](https://data.world/montealj/mass-mobilization-participant-data)
 2. Documents
   * [Final Report](https://github.com/montealj/mass-mobilization/blob/main/Mass_Mobilization_Report.pdf)
   This report contains a detailed account of the data wrangling, EDA and modeling performed for this project.
