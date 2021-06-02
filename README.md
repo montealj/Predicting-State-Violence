@@ -16,6 +16,6 @@ This project aims to create a model that discerns whether a mass mobilization wi
   * [Presentation](https://github.com/montealj/mass-mobilization/blob/main/Mass_Mobilization_Project_Presentation.pdf)
   This presentation summarizes the data wrangling, EDA, modeling and conclusions for this project. 
 3. Notebooks
-  * [Data Wrangling](https://github.com/montealj/mass-mobilization/blob/main/notebooks/mm_data_wrangling.ipynb)
-  * [Exploration Data Analysis](https://github.com/montealj/mass-mobilization/blob/main/notebooks/mm_eda.ipynb)
-  * [Machine Learning](https://github.com/montealj/mass-mobilization/blob/main/notebooks/mm_modeling.ipynb)
+  * [Data Wrangling](https://nbviewer.jupyter.org/github/montealj/mass-mobilization/blob/main/notebooks/mm_data_wrangling.ipynb)
+  * [Exploration Data Analysis](https://nbviewer.jupyter.org/github.com/montealj/mass-mobilization/blob/main/notebooks/mm_eda.ipynb)
+  * [Machine Learning](https://nbviewer.jupyter.org/github.com/montealj/mass-mobilization/blob/main/notebooks/mm_modeling.ipynb)
