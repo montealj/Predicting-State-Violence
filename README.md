@@ -8,14 +8,14 @@ This project aims to create a model that discerns whether a mass mobilization wi
 ### Table of Contents
 
 1. Source Data
-  * [Original Mass Mobilization Protest Data](https://github.com/montealj/mass-mobilization/tree/main/raw_data) 
+  * [Original Mass Mobilization Protest Data](https://github.com/montealj/predicting-state-violence/tree/main/raw_data) 
   * [Improved Mass Mobilization Protest Data - Data World](https://data.world/montealj/mass-mobilization-participant-data)
 2. Documents
-  * [Final Report](https://github.com/montealj/mass-mobilization/blob/main/Mass_Mobilization_Report.pdf)
+  * [Final Report](https://github.com/montealj/predicting-state-violence/blob/main/Mass_Mobilization_Report.pdf)
   This report contains a detailed account of the data wrangling, EDA and modeling performed for this project.
-  * [Presentation](https://github.com/montealj/mass-mobilization/blob/main/Mass_Mobilization_Project_Presentation.pdf)
+  * [Presentation](https://github.com/montealj/predicting-state-violence/blob/main/Mass_Mobilization_Project_Presentation.pdf)
   This presentation summarizes the data wrangling, EDA, modeling and conclusions for this project. 
 3. Notebooks
-  * [Data Wrangling](https://nbviewer.jupyter.org/github/montealj/mass-mobilization/blob/main/notebooks/mm_data_wrangling.ipynb)
-  * [Exploration Data Analysis](https://nbviewer.jupyter.org/github.com/montealj/mass-mobilization/blob/main/notebooks/mm_eda.ipynb)
-  * [Machine Learning](https://nbviewer.jupyter.org/github.com/montealj/mass-mobilization/blob/main/notebooks/mm_modeling.ipynb)
+  * [Data Wrangling](https://nbviewer.jupyter.org/github/montealj/predicting-state-violence/blob/main/notebooks/mm_data_wrangling.ipynb)
+  * [Exploration Data Analysis](https://nbviewer.jupyter.org/github/montealj/predicting-state-violence/blob/main/notebooks/mm_eda.ipynb)
+  * [Machine Learning](https://nbviewer.jupyter.org/github/montealj/predicting-state-violence/blob/main/notebooks/mm_modeling.ipynb)
